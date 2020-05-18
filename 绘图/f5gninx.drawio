@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T10:24:23.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="lvABXhdx-HKKtnjRRezl" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T10:27:06.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="fLwk6_C8Yw1DAJlBAIxr" version="13.1.2" type="github">
   <diagram id="L1MS9s3SexZVEdTnPubB" name="Page-1">
     <mxGraphModel dx="1725" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="f7azGS1R2URvzf0obb4X-8" value="大部分请求需要读取，上传文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="250" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f7azGS1R2URvzf0obb4X-9" value="执行reload，之前的请完成后work进程才会关闭" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="280" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
